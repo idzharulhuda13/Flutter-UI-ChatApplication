@@ -1,6 +1,6 @@
 # chatty
 
-A new Flutter project.
+A new Flutter UI project, Messengger Application
 
 ## Getting Started
 

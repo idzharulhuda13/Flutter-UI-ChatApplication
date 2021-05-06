@@ -1,6 +1,6 @@
-# chatty
+# ChatApplication
 
-A new Flutter UI project, Messengger Application
+A new Flutter UI project, Messengger Application. (design from buildwithangga)
 
 ## Getting Started
 

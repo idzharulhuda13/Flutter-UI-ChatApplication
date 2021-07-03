@@ -3,7 +3,6 @@ import 'package:chatty/widgets/chat_message.dart';
 import 'package:flutter/material.dart';
 
 class ChatPage extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -50,7 +49,7 @@ class ChatPage extends StatelessWidget {
               ),
               child: Row(
                 children: [
-                  Image.asset('assets/images/group1.png'),
+                  Image.asset('assets/images/group2.png'),
                   SizedBox(
                     width: 12,
                   ),
@@ -58,7 +57,7 @@ class ChatPage extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Jakarta Fair',
+                        'WKW',
                         style: tittleTextStyle,
                       ),
                       Text(
@@ -85,7 +84,7 @@ class ChatPage extends StatelessWidget {
               checknotme: true,
             ),
             ChatMessage(
-              imageUrl: 'assets/images/profile_pic.png',
+              imageUrl: 'assets/images/profile_huda.png',
               text: 'Thinking about how to deal\nwith this client from hell...',
               time: '22:08',
               checknotme: false,
